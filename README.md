@@ -7,6 +7,6 @@ TF: Term Frequency, which measures how frequently a term occurs in a document. S
 
 IDF: Inverse Document Frequency, which measures how important a term is. While computing TF, all terms are considered equally important. However it is known that certain terms, such as "is", "of", and "that", may appear a lot of times but have little importance. Thus we need to weigh down the frequent terms while scale up the rare ones, by computing the following:
 
-All the required code is provided in spam_ham_classifier_using_Naive_Bayes_Classifier.ipy file
+All the required code is provided in spam_classifier_using_Naive_Bayes_Classifier.ipy file
 
 Thank You
