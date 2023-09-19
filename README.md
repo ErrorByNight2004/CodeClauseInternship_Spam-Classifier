@@ -1,4 +1,4 @@
-# CodeClauseInternship_Spam-Classifier
+# CodeClause Internship_Spam-Classifier
 In this project i am building spam classifier using naive bayes classifier i have actually show two ways of doing this the first one is TF-IDF(TF-term frequency and IDF-inverse document frequency) and the other one is pipeline method. and i am using the dataset SmapCollection you can know more about dataset in readme section of this repository
 
 now i like to define what is TF and IDF.
